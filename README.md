@@ -1,6 +1,6 @@
 ## Hi i`m damasco
   i have 16 years old
-  i like dance so much👋
+  i like dance so much
 
 <!--
 **damasco1/Damasco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
